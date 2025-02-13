@@ -4,3 +4,4 @@ SQLAlchemy==2.0.37
 sqlalchemy-orm==1.2.10
 uvicorn==0.34.0
 psycopg2-binary==2.9.10
+
